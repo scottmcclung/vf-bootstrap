@@ -1,4 +1,4 @@
-##Steps to create a namespaced version of Bootstrap.
+## Steps to create a namespaced version of Bootstrap.
 - Merge in updates from upstream repository
 - Compile new namespaced copy of bootstrap using bs-prefix.less for source 
 
