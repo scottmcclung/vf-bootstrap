@@ -8,6 +8,3 @@
 - Compile minified copy of the namespaced bootstrap file using bs-min.less for source
 
   `lessc -clean-css bs-min.less dist/css/bs-bootstrap.min.css`
-
-
-To use, wrap content in `<div class="bs"></div>`
